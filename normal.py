@@ -8,3 +8,5 @@ def fun(a):
 print(fun(10))
 
 print("Mac")
+
+print("My data")
